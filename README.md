@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am a **senior data scientist** at BP, where I spearhead digital innovation across the trading and shipping organization.
+I am an AI enthusiast with a strong background in machine learning, statistics, and software engineering.
+
+My role is to drive innovation through advanced data science and analytics solutions, leading the development and adoption of generative AI 🤖 across the trading and shipping organization. I am a leading member of BP's data & analytics and GenAI communities of practice, actively demystifying data science and AI across the business.
+
+I hold master's degrees in Mechanical & Electrical Engineering from Robert Gordon University, and Applied Data Science from the University of Buckingham. I have led projects across various domains including demand forecasting, causal inference, and generative AI. I am a strong advocate for democratizing artificial intelligence and believe it can help us be more efficient, productive, and safe.
+
+
+
 <!--
 **Fredheda/Fredheda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
